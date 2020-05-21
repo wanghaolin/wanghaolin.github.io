@@ -21,10 +21,10 @@ My research interests include:
 
 Education
 =====
-- 2014-2018  Ph.D., Chongqing Institute of Green and Intelligent Teachnology, Chinese Academy of Sciences
-- 2015-2018  Joint Ph.D., Department of Systems Engineering and Engineering Management, City University of Hong Kong
-- 2010-2013  Master of Software Engineering, School of Software Engineering, University of Science and Teachnology of China
-- 2006-2010  Bachelor of Electronic and Information Engineering, School of Electronic and Information Engineering, Beihang University
+- 2014-2018    Ph.D., Chongqing Institute of Green and Intelligent Teachnology, Chinese Academy of Sciences
+- 2015-2018    Joint Ph.D., Department of Systems Engineering and Engineering Management, City University of Hong Kong
+- 2010-2013    Master of Software Engineering, School of Software Engineering, University of Science and Teachnology of China
+- 2006-2010    Bachelor of Electronic and Information Engineering, School of Electronic and Information Engineering, Beihang University
  
 Selected Publications
 =====
