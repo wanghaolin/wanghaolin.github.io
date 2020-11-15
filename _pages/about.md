@@ -25,7 +25,7 @@ Education
 
 Selected Publications
 =====
-- Zhilin Huang, Xu-Hai Tan, **Haolin Wang**, Tie-wei Lv, Jie Tian*, "A new diagnostic model distinguishes Kawasaki disease from other febrile illnesses in Chongqing: a retrospective study on 10367 patients", Frontiers in Pediatrics, 2020.
+- Zhilin Huang, Xu-Hai Tan, **Haolin Wang**, Bo Pan, Tie-wei Lv, Jie Tian*, "A new diagnostic model distinguishes Kawasaki disease from other febrile illnesses in Chongqing: a retrospective study on 10367 patients", Frontiers in Pediatrics, 2020.
 - **Haolin Wang**, Xuhai Tan, Zhilin Huang, Bo Pan, Jie Tian, "Mining incomplete clinical data for the early assessment of Kawasaki disease based on feature clustering and convolutional neural networks", Artificial Intelligence in Medicine, 2020. 
 - **Haolin Wang**, Zhilin Huang, Danfeng Zhang, Johan Arief, Tiewei Lyu, and Jie Tian, "Integrating Co-clustering and Interpretable Machine Learning for the Prediction of Intravenous Immunoglobulin Resistance in Kawasaki Disease", IEEE Access, 2020.
 - **Haolin Wang**, Qingpeng Zhang, Youhua Frank Chen, Eman Leung, Eliza Wong, Eng-Kiong Yeoh, "Tensor Factorization-based Prediction with an Application to Estimating the Risk of Chronic Diseases", BioRxiv, 2019.
