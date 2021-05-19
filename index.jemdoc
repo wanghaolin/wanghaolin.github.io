@@ -12,6 +12,10 @@ My research interests include:
 - Clinical Predictive Models
 - Intelligent Systems
 
+== Courses
+- Discrete Mathematics with Applications (Undergraduate students)
+- Deep Learning with Medical Applications (Part 2, graduate students)
+
 == Experience
 - 2020-now Associate Professor, College of Medical Informatics, Chongqing Medical University
 - 2018–2020 PostDoc, College of Medical Informatics, Chongqing Medical University
@@ -25,17 +29,17 @@ My research interests include:
 - 2006-2010  Bachelor of Electronic and Information Engineering, School of Electronic and Information Engineering, Beihang University
 
 == Selected Publications
-. Xiaomei Xu, Juntao Tan, *Haolin Wang*, Wenlong Zhao, Bo Qin, "Risk stratification score to predict readmission of patients with acute decompensated cirrhosis within 90 days", Frontiers in Medicine, 2021
-. Xiaomei Xu, *Haolin Wang*, Wenlong Zhao, Yong Wang, Jiayue Wang, Bo Qin, “Recompensation factors for patients with decompensated cirrhosis”, BMJ Open, 2021.
-. *Haolin Wang*, Qingpeng Zhang, Youhua Frank Chen, Eman Leung, Eliza Wong, Eng-Kiong Yeoh, “Tensor Factorization-based Prediction with an Application to Estimate the Risk of Chronic Diseases”, IEEE Intelligent Systems, 2021.
-. Liwen Zheng, *Haolin Wang*, Li Mei, Qiuman Chen, Yuxin Zhang, Hongmei Zhang, “Artificial intelligence in digital cariology: a new tool for the diagnosis of deep caries and pulpitis using convolutional neural networks”, Annals of Translational Medicine, 2021.
-. Zhilin Huang, Xu-Hai Tan, *Haolin Wang*, Bo Pan, Tie-wei Lv, Jie Tian*, “A new diagnostic model distinguishes Kawasaki disease from other febrile illnesses in Chongqing: a retrospective study on 10367 patients”, Frontiers in Pediatrics, 2020.
-. *Haolin Wang*, Zhilin Huang, Danfeng Zhang, Johan Arief, Tiewei Lyu, and Jie Tian, "Integrating Co-clustering and Interpretable Machine Learning for the Prediction of Intravenous Immunoglobulin Resistance in Kawasaki Disease", IEEE ACCESS, 2020.
-. *Haolin Wang*, Xuhai Tan, Zhilin Huang, Bo Pan, Jie Tian, "Mining incomplete clinical data for the early assessment of Kawasaki disease based on feature clustering and convolutional neural networks", Artificial Intelligence in Medicine, 2020.
-. *Haolin Wang*, Qingpeng Zhang, Mary Ip, Joseph Lau, “Social Media-based Conversational Agents for Health Management and Interventions”, Computer, 2018.
-. *Haolin Wang*, Qingpeng Zhang, Hing-Yu So, Angela Kwok, Zoie Shui-Yee Wong, “Temporal Prediction of In-Hospital Falls using Tensor Factorization”, BMJ Innovations, 2018.
-. *Haolin Wang*, Yuming Qiu, Jun Jiang, Ju Zhang, Jiahu Yuan, “Leveraging Word Embeddings and Semantic Enrichment for Automatic Clinical Evidence Grading”, International Conference on Bioinformatics and Computational Biology, 2018.
-. Lifang Li, Qingpeng Zhang, Jun Tian, *Haolin Wang*, “Characterizing Information Propagation Patterns in Emergencies: A Case Study with Yiliang Earthquake”, International Journal of Information Management, 2018.
-. *Haolin Wang*, Qingpeng Zhang, “Semantic Expansion Network based Relevance Analysis for Medical Information Retrieval”, International Conference for Smart Health, 2017.
-. *Haolin Wang*, Qingpeng Zhang, Jiahu Yuan, “Semantically Enhanced Medical Information Retrieval System: A Tensor Factorization Based Approach” , IEEE ACCESS, 2017.
-. *Haolin Wang*, Minjun Xi, Jia Liu, and Canfeng Chen. "Transmitting IPv6 packets over Bluetooth low energy based on BlueZ." International Conference on Advanced Communication Technology (Outstanding Paper Award), 2013.
+- Xiaomei Xu, Juntao Tan, *Haolin Wang*, Wenlong Zhao, Bo Qin, "Risk stratification score to predict readmission of patients with acute decompensated cirrhosis within 90 days", Frontiers in Medicine, 2021
+- Xiaomei Xu, *Haolin Wang*, Wenlong Zhao, Yong Wang, Jiayue Wang, Bo Qin, “Recompensation factors for patients with decompensated cirrhosis”, BMJ Open, 2021.
+- *Haolin Wang*, Qingpeng Zhang, Youhua Frank Chen, Eman Leung, Eliza Wong, Eng-Kiong Yeoh, “Tensor Factorization-based Prediction with an Application to Estimate the Risk of Chronic Diseases”, IEEE Intelligent Systems, 2021.
+- Liwen Zheng, *Haolin Wang*, Li Mei, Qiuman Chen, Yuxin Zhang, Hongmei Zhang, “Artificial intelligence in digital cariology: a new tool for the diagnosis of deep caries and pulpitis using convolutional neural networks”, Annals of Translational Medicine, 2021.
+- Zhilin Huang, Xu-Hai Tan, *Haolin Wang*, Bo Pan, Tie-wei Lv, Jie Tian*, “A new diagnostic model distinguishes Kawasaki disease from other febrile illnesses in Chongqing: a retrospective study on 10367 patients”, Frontiers in Pediatrics, 2020.
+- *Haolin Wang*, Zhilin Huang, Danfeng Zhang, Johan Arief, Tiewei Lyu, and Jie Tian, "Integrating Co-clustering and Interpretable Machine Learning for the Prediction of Intravenous Immunoglobulin Resistance in Kawasaki Disease", IEEE ACCESS, 2020.
+- *Haolin Wang*, Xuhai Tan, Zhilin Huang, Bo Pan, Jie Tian, "Mining incomplete clinical data for the early assessment of Kawasaki disease based on feature clustering and convolutional neural networks", Artificial Intelligence in Medicine, 2020.
+- *Haolin Wang*, Qingpeng Zhang, Mary Ip, Joseph Lau, “Social Media-based Conversational Agents for Health Management and Interventions”, Computer, 2018.
+- *Haolin Wang*, Qingpeng Zhang, Hing-Yu So, Angela Kwok, Zoie Shui-Yee Wong, “Temporal Prediction of In-Hospital Falls using Tensor Factorization”, BMJ Innovations, 2018.
+- *Haolin Wang*, Yuming Qiu, Jun Jiang, Ju Zhang, Jiahu Yuan, “Leveraging Word Embeddings and Semantic Enrichment for Automatic Clinical Evidence Grading”, International Conference on Bioinformatics and Computational Biology, 2018.
+- Lifang Li, Qingpeng Zhang, Jun Tian, *Haolin Wang*, “Characterizing Information Propagation Patterns in Emergencies: A Case Study with Yiliang Earthquake”, International Journal of Information Management, 2018.
+- *Haolin Wang*, Qingpeng Zhang, “Semantic Expansion Network based Relevance Analysis for Medical Information Retrieval”, International Conference for Smart Health, 2017.
+- *Haolin Wang*, Qingpeng Zhang, Jiahu Yuan, “Semantically Enhanced Medical Information Retrieval System: A Tensor Factorization Based Approach” , IEEE ACCESS, 2017.
+- *Haolin Wang*, Minjun Xi, Jia Liu, and Canfeng Chen. "Transmitting IPv6 packets over Bluetooth low energy based on BlueZ." International Conference on Advanced Communication Technology (Outstanding Paper Award), 2013.
