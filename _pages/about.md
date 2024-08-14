@@ -25,7 +25,7 @@ My research interest includes data mining in healthcare, predictive models and i
 - 2018–2020, PostDoc, College of Medical Informatics, Chongqing Medical University
 - 2013–2014, Engineer, MicroStrategy
 - 2011–2012, Software Intern, Nokia Research Center
-- 
+  
 # Educations
 - 2014-2018, Ph.D., Chongqing Institute of Green and Intelligent Technology, Chinese Academy of Sciences
 - 2015-2018, Joint Ph.D., Department of Systems Engineering and Engineering Management, City University of Hong Kong
@@ -34,7 +34,7 @@ My research interest includes data mining in healthcare, predictive models and i
   
 # Publications 
 - Zixin Shi, Linjun Huang, **Haolin Wang**, Predicting Complications of Cirrhosis using Synthetic Data Generation Enhanced Dynamic Classifier Selection, accepted by the IEEE MedAI 2024 Conference.
-- Yifan Duan, Ruiqi Wang, Zhilin Huang, Haoran Chen, Mingkun Tang, Jiayin Zhou, Zhengyong Hu, Wanfei Hu, Zhenli Chen, Qing Qian, Haolin Wang, Intelligent Diagnosis of Kawasaki Disease From Real-World Data Using Interpretable Machine Learning Models, Hellenic Journal of Cardiology, 2024, 
+- Yifan Duan, Ruiqi Wang, Zhilin Huang, Haoran Chen, Mingkun Tang, Jiayin Zhou, Zhengyong Hu, Wanfei Hu, Zhenli Chen, Qing Qian, **Haolin Wang**, Intelligent Diagnosis of Kawasaki Disease From Real-World Data Using Interpretable Machine Learning Models, Hellenic Journal of Cardiology, 2024, 
 - Yang Zhang, **Haolin Wang**, Chengliang Yin, Tingting Shu, Jie Yu, Jie Jian, Chang Jian, Minjie Duan, Kaisaierjiang Kadier, Qian Xu, Xueer Wang, Tianyu Xiang, Xiaozhu Liu, [Development of a prediction model for the risk of 30-day unplanned readmission in elderly patients with heart failure: a multicenter retrospective study](https://www.sciencedirect.com/science/article/pii/S0939475323002338), Nutrition, Metabolism and Cardiovascular Diseases, 2023.
 - Xiaozhu Liu, Duan Minjie, Haodong Huang, Yang Zhang, Tianyu Xiang, Cengniu Wu, Bei Zhou, **Haolin Wang**, Tingting Zhang, [Predicting diabetic kidney disease for type 2 diabetes mellitus by machine learning in the real world: a multicenter retrospective study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10352831/), Frontiers in Endocrinology, 2023
 - Jia Liu, **Haolin Wang**, Zhen Yang, Junjun Quan, Lingjuan Liu, Jie Tian, [Deep learning-based computer-aided heart sound analysis in children with left-to-right shunt congenital heart disease](https://www.internationaljournalofcardiology.com/article/S0167-5273(21)02004-0/fulltext ), International Journal of Cardiology, 2021.
