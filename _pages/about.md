@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🎖 About Me
+# About Me
 My research interest includes data mining in healthcare, predictive models and intelligent systems. 
 
-# 📖 Educations
+# Educations
 - 2014-2018, Ph.D., Chongqing Institute of Green and Intelligent Technology, Chinese Academy of Sciences
 - 2015-2018, Joint Ph.D., Department of Systems Engineering and Engineering Management, City University of Hong Kong
 - 2010-2013, Master of Software Engineering, School of Software Engineering, University of Science and Technology of China
 - 2006-2010, Bachelor of Electronic and Information Engineering, School of Electronic and Information Engineering, Beihang University
   
-# 📝 Publications 
+# Publications 
 - Zixin Shi, Linjun Huang, **Haolin Wang**, Predicting Complications of Cirrhosis using Synthetic Data Generation Enhanced Dynamic Classifier Selection, accepted by the IEEE MedAI 2024 Conference.
 - Yifan Duan, Ruiqi Wang, Zhilin Huang, Haoran Chen, Mingkun Tang, Jiayin Zhou, Zhengyong Hu, Wanfei Hu, Zhenli Chen, Qing Qian, Haolin Wang, Intelligent Diagnosis of Kawasaki Disease From Real-World Data Using Interpretable Machine Learning Models, Hellenic Journal of Cardiology, 2024, 
 - Yang Zhang, **Haolin Wang**, Chengliang Yin, Tingting Shu, Jie Yu, Jie Jian, Chang Jian, Minjie Duan, Kaisaierjiang Kadier, Qian Xu, Xueer Wang, Tianyu Xiang, Xiaozhu Liu, [Development of a prediction model for the risk of 30-day unplanned readmission in elderly patients with heart failure: a multicenter retrospective study](https://www.sciencedirect.com/science/article/pii/S0939475323002338), Nutrition, Metabolism and Cardiovascular Diseases, 2023.
