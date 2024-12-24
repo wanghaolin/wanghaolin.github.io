@@ -33,6 +33,7 @@ My research interest includes data mining in healthcare, predictive models and i
 - 2006-2010, Bachelor of Electronic and Information Engineering, School of Electronic and Information Engineering, Beihang University
   
 # Publications 
+- Zhen Yang, Bo Pan, Jia Liu, **Haolin Wang**, Jie Tian, [A new prediction diagnosis model of incomplete Kawasaki disease based on data mining with big data](https://onlinelibrary.wiley.com/doi/full/10.1002/pdi3.2516), Pediatric Discovery, 2024.
 - Zixin Shi, Linjun Huang, **Haolin Wang**, Predicting Complications of Cirrhosis using Synthetic Data Generation Enhanced Dynamic Classifier Selection, IEEE MedAI 2024.
 - Yifan Duan, Ruiqi Wang, Zhilin Huang, Haoran Chen, Mingkun Tang, Jiayin Zhou, Zhengyong Hu, Wanfei Hu, Zhenli Chen, Qing Qian, **Haolin Wang**, [Intelligent Diagnosis of Kawasaki Disease From Real-World Data Using Interpretable Machine Learning Models](https://www.sciencedirect.com/science/article/pii/S1109966624001702), Hellenic Journal of Cardiology, 2024, 
 - Yang Zhang, **Haolin Wang**, Chengliang Yin, Tingting Shu, Jie Yu, Jie Jian, Chang Jian, Minjie Duan, Kaisaierjiang Kadier, Qian Xu, Xueer Wang, Tianyu Xiang, Xiaozhu Liu, [Development of a prediction model for the risk of 30-day unplanned readmission in elderly patients with heart failure: a multicenter retrospective study](https://www.sciencedirect.com/science/article/pii/S0939475323002338), Nutrition, Metabolism and Cardiovascular Diseases, 2023.
