@@ -33,6 +33,7 @@ My research interest includes data mining in healthcare, predictive models and i
 - 2006-2010, Bachelor of Electronic and Information Engineering, School of Electronic and Information Engineering, Beihang University
   
 # Publications 
+- Zixin Shi, Linjun Huang, **Haolin Wang**, [Predictive modeling of pediatric drug-induced liver injury: Dynamic classifier selection with clustering analysis](https://sage.cnpereading.com/paragraph/article/?doi=10.1177%2F20552076251330078), Digital Health, 2025.
 - Zhen Yang, Bo Pan, Jia Liu, **Haolin Wang**, Jie Tian, [A new prediction diagnosis model of incomplete Kawasaki disease based on data mining with big data](https://onlinelibrary.wiley.com/doi/full/10.1002/pdi3.2516), Pediatric Discovery, 2024.
 - Zixin Shi, Linjun Huang, **Haolin Wang**, [Predicting Complications of Cirrhosis using Synthetic Data Generation Enhanced Dynamic Classifier Selection](https://ieeexplore.ieee.org/document/10803287), IEEE MedAI 2024.
 - Yifan Duan, Ruiqi Wang, Zhilin Huang, Haoran Chen, Mingkun Tang, Jiayin Zhou, Zhengyong Hu, Wanfei Hu, Zhenli Chen, Qing Qian, **Haolin Wang**, [Intelligent Diagnosis of Kawasaki Disease From Real-World Data Using Interpretable Machine Learning Models](https://www.sciencedirect.com/science/article/pii/S1109966624001702), Hellenic Journal of Cardiology, 2024, 
