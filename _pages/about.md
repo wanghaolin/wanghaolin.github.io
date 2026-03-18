@@ -21,7 +21,8 @@ redirect_from:
 My research interest includes data mining in healthcare, predictive models and intelligent systems. 
 
 # Working Experiences
-- 2020-now, Associate Professor, College of Medical Informatics, Chongqing Medical University
+- 2025-now, Associate Professor, College of Artifical Intelligence Medicine, Chongqing Medical University
+- 2020-2025, Associate Professor, College of Medical Informatics, Chongqing Medical University
 - 2018–2020, PostDoc, College of Medical Informatics, Chongqing Medical University
 - 2013–2014, Engineer, MicroStrategy
 - 2011–2012, Software Intern, Nokia Research Center
