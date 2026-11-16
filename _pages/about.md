@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
+<p><a href="{{ site.author.googlescholar }}">Google Scholar</a> · Citations: <span id="total_cit" aria-live="polite">loading…</span></p>
 My research interest includes data mining in healthcare, predictive models and intelligent systems. 
 
 # Working Experiences
@@ -34,6 +35,8 @@ My research interest includes data mining in healthcare, predictive models and i
 - 2006-2010, Bachelor of Electronic and Information Engineering, School of Electronic and Information Engineering, Beihang University
   
 # Publications 
+- Fei Tang , Zixin Shi, Ninglu Xu, Linjun Huang, **Haolin Wang**, [FH-DA: A density-aware fuzzy hyperbox dynamic ensemble framework for early risk stratification of cirrhosis complications in heterogeneous EHR data](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fa%2F1o5SZ6DBR3L1KW/1/010201a1cad6933f-fb9b62b4-4566-4db2-baa9-6e1e1d408aca-000000/A2bSuYYRnxhGi4fy7LP1IsDXpCM=473), [[code]](https://github.com/wanghaolin/FH-DA-cirrhosis), Biomedical Signal Processing and Control, 2026
+- Zhi-Ji Chen, Xin Ge, Jia-Yao Xu, Yu-Hong Zhang, Mei Yang, Lin-Hong Mao, Yu-Mei Wang, Ping Chen, Zhen Zhu, Fang Tang, Chun-Yan Luo, Jin-Fang Liu, Bo-Yi Wu, Xing-Shun Qi, Trevor Kwan-Hung Wu, Lung-Yi Mak, Li Zhou, Liang-Zhi Wen, Song He, **Hao-Lin Wang** and Zhi-Hang Zhou, [Machine learning as a decision-support tool for spontaneous bacterial empyema and spontaneous bacterial peritonitis in cirrhosis](https://www.f6publishing.com/ArticleInPressDetail?id=127625), World Journal of Gastroenterology, 2026
 - Linjun Huang, Zixin Shi, Fei Tang, **Haolin Wang**, [Knowledge-augmented Patient Network Embedding-based Dynamic Model Selection for Predictive Analysis of Pediatric Drug-induced Liver Injury](https://ieeexplore.ieee.org/document/11082532), [[pdf]](https://github.com/wanghaolin/wanghaolin.github.io/blob/c45e7227fa9b4638fcc0a1ddbff0f3547aabd10c/docs/TBME3590149.pdf), [[code]](https://github.com/wanghaolin/KPNDS), IEEE Transactions on Biomedical Engineering, 2025
 - Zixin Shi, Linjun Huang, Xiaomei Xu, Kexue Pu, Qingpeng Zhang, **Haolin Wang**, [Predicting Unplanned Readmission Risk in Patients With Cirrhosis: Complication-Aware Dynamic Classifier Selection Approach](https://medinform.jmir.org/2025/1/e63581/), [[code]](https://github.com/wanghaolin/metades-cirrhosis-readmission), JMIR Medical Informatics, 2025
 - Zixin Shi, Linjun Huang, **Haolin Wang**, [Predictive modeling of pediatric drug-induced liver injury: Dynamic classifier selection with clustering analysis](https://sage.cnpereading.com/paragraph/article/?doi=10.1177%2F20552076251330078), Digital Health, 2025.
@@ -48,7 +51,6 @@ My research interest includes data mining in healthcare, predictive models and i
 - Xiaomei Xu, **Haolin Wang**, Wenlong Zhao, Yong Wang, Jiayue Wang, Bo Qin, [Recompensation factors for patients with decompensated cirrhosis: a multicentre retrospective case–control study](https://bmjopen.bmj.com/content/11/6/e043083 ), BMJ Open, 2021.
 - **Haolin Wang**, Qingpeng Zhang, Youhua Frank Chen, Eman Leung, Eliza Wong, Eng-Kiong Yeoh, [Tensor Factorization-based Prediction with an Application to Estimate the Risk of Chronic Diseases](https://ieeexplore.ieee.org/document/9395205/ ), IEEE Intelligent Systems, 2021.
 - Liwen Zheng, **Haolin Wang**, Li Mei, Qiuman Chen, Yuxin Zhang, Hongmei Zhang, [Artificial intelligence in digital cariology: a new tool for the diagnosis of deep caries and pulpitis using convolutional neural networks](https://atm.amegroups.com/article/view/68260/html), Annals of Translational Medicine, 2021.
-- 刘巧, 曾燕, *王浩林*, 刘博, 赵文龙, 王毅, [机器学习方法对新型冠状病毒肺炎的诊断价值](https://zyyz.cbpt.cnki.net/WKA3/WebPublication/paperDigest.aspx?paperID=e7682237-fbeb-4ca7-89c8-ee5358e3fc8a), 中国医学影像学杂志, 2021.
 - Zhilin Huang, Xu-Hai Tan, **Haolin Wang**, Bo Pan, Tie-wei Lv, Jie Tian, [A new diagnostic model distinguishes Kawasaki disease from other febrile illnesses in Chongqing: a retrospective study on 10367 patients](https://www.frontiersin.org/articles/10.3389/fped.2020.533759/full), Frontiers in Pediatrics, 2020.
 - **Haolin Wang**, Zhilin Huang, Danfeng Zhang, Johan Arief, Tiewei Lyu, and Jie Tian, [Integrating Co-clustering and Interpretable Machine Learning for the Prediction of Intravenous Immunoglobulin Resistance in Kawasaki Disease](https://ieeexplore.ieee.org/document/9097874), IEEE ACCESS, 2020.
 - **Haolin Wang**, Xuhai Tan, Zhilin Huang, Bo Pan, Jie Tian, [Mining incomplete clinical data for the early assessment of Kawasaki disease based on feature clustering and convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0933365719307602), Artificial Intelligence in Medicine, 2020.
